@@ -1,0 +1,93 @@
+---
+id: swsh12pt5-38
+name: Glaceon V
+supertype: Pokémon
+subtypes:
+- Basic
+- V
+hp: '210'
+types:
+- Water
+rules:
+- 'V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.'
+attacks:
+- name: Frost Charge
+  cost:
+  - Water
+  convertedEnergyCost: 1
+  damage: '30'
+  text: Search your deck for a Water Energy card and attach it to this Pokémon. Then,
+    shuffle your deck.
+- name: Freezing Wind
+  cost:
+  - Water
+  - Water
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '130'
+  text: ''
+weaknesses:
+- type: Metal
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: swsh12pt5
+  name: Crown Zenith
+  series: Sword & Shield
+  printedTotal: 159
+  total: 160
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: CRZ
+  releaseDate: 2023/01/20
+  updatedAt: 2023/01/19 15:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh12pt5/symbol.png
+    logo: https://images.pokemontcg.io/swsh12pt5/logo.png
+number: '38'
+artist: PLANETA Mochizuki
+rarity: Rare Holo V
+nationalPokedexNumbers:
+- 471
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh12pt5/38.png
+  large: https://images.pokemontcg.io/swsh12pt5/38_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh12pt5-38
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 0.45
+      mid: 1.0
+      high: 10.0
+      market: 0.9
+      directLow: 0.9
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh12pt5-38
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 1.21
+    lowPrice: 0.3
+    trendPrice: 1.27
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 0.3
+    avg1: 1.29
+    avg7: 1.24
+    avg30: 1.22
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0

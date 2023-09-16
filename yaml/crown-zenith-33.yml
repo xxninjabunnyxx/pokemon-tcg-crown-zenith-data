@@ -1,0 +1,99 @@
+---
+id: swsh12pt5-33
+name: Corphish
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '70'
+types:
+- Water
+evolvesTo:
+- Crawdaunt
+attacks:
+- name: Water Gun
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+- name: Crabhammer
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '50'
+  text: ''
+weaknesses:
+- type: Lightning
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: swsh12pt5
+  name: Crown Zenith
+  series: Sword & Shield
+  printedTotal: 159
+  total: 160
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: CRZ
+  releaseDate: 2023/01/20
+  updatedAt: 2023/01/19 15:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh12pt5/symbol.png
+    logo: https://images.pokemontcg.io/swsh12pt5/logo.png
+number: '33'
+artist: '0313'
+rarity: Common
+flavorText: No matter how dirty the water in the river, it will adapt and thrive.
+  It has a strong will to survive.
+nationalPokedexNumbers:
+- 341
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh12pt5/33.png
+  large: https://images.pokemontcg.io/swsh12pt5/33_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh12pt5-33
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.01
+      mid: 0.24
+      high: 4.99
+      market: 0.2
+      directLow: 0.1
+    normal:
+      low: 0.01
+      mid: 0.05
+      high: 1.02
+      market: 0.02
+      directLow: 0.02
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh12pt5-33
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.02
+    lowPrice: 0.01
+    trendPrice: 0.03
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.19
+    reverseHoloLow: 0.04
+    reverseHoloTrend: 0.22
+    lowPriceExPlus: 0.01
+    avg1: 0.02
+    avg7: 0.03
+    avg30: 0.02
+    reverseHoloAvg1: 0.3
+    reverseHoloAvg7: 0.22
+    reverseHoloAvg30: 0.19

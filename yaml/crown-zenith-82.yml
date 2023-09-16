@@ -1,0 +1,98 @@
+---
+id: swsh12pt5-82
+name: Dragalge
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '120'
+types:
+- Darkness
+evolvesFrom: Skrelp
+attacks:
+- name: Rocket Poison
+  cost:
+  - Darkness
+  convertedEnergyCost: 1
+  damage: ''
+  text: Your opponent's Active Pokémon is now Poisoned. If this Pokémon evolved from
+    Skrelp during this turn, put 8 damage counters on that Pokémon instead of 1 during
+    Pokémon Checkup.
+- name: Razor Fin
+  cost:
+  - Darkness
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '60'
+  text: ''
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: swsh12pt5
+  name: Crown Zenith
+  series: Sword & Shield
+  printedTotal: 159
+  total: 160
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: CRZ
+  releaseDate: 2023/01/20
+  updatedAt: 2023/01/19 15:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh12pt5/symbol.png
+    logo: https://images.pokemontcg.io/swsh12pt5/logo.png
+number: '82'
+artist: NC Empire
+rarity: Rare
+flavorText: Dragalge uses a poisonous liquid capable of corroding metal to send tankers
+  that enter its territory to the bottom of the sea.
+nationalPokedexNumbers:
+- 691
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh12pt5/82.png
+  large: https://images.pokemontcg.io/swsh12pt5/82_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh12pt5-82
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.1
+      mid: 0.35
+      high: 1.0
+      market: 0.33
+      directLow: 0.32
+    normal:
+      low: 0.01
+      mid: 0.15
+      high: 1.95
+      market: 0.12
+      directLow: 0.07
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh12pt5-82
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.07
+    lowPrice: 0.02
+    trendPrice: 0.06
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.29
+    reverseHoloLow: 0.05
+    reverseHoloTrend: 0.31
+    lowPriceExPlus: 0.02
+    avg1: 0.1
+    avg7: 0.06
+    avg30: 0.07
+    reverseHoloAvg1: 0.4
+    reverseHoloAvg7: 0.35
+    reverseHoloAvg30: 0.28

@@ -1,0 +1,101 @@
+---
+id: swsh12pt5-87
+name: Aron
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '70'
+types:
+- Metal
+evolvesTo:
+- Lairon
+attacks:
+- name: Ram
+  cost:
+  - Metal
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+- name: Slight Intrusion
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '30'
+  text: This Pokémon also does 10 damage to itself.
+weaknesses:
+- type: Fire
+  value: "×2"
+resistances:
+- type: Grass
+  value: "-30"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: swsh12pt5
+  name: Crown Zenith
+  series: Sword & Shield
+  printedTotal: 159
+  total: 160
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: CRZ
+  releaseDate: 2023/01/20
+  updatedAt: 2023/01/19 15:45:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh12pt5/symbol.png
+    logo: https://images.pokemontcg.io/swsh12pt5/logo.png
+number: '87'
+artist: sowsow
+rarity: Common
+flavorText: It eats iron ore—and sometimes railroad tracks— to build up the steel
+  armor that protects its body.
+nationalPokedexNumbers:
+- 304
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: F
+images:
+  small: https://images.pokemontcg.io/swsh12pt5/87.png
+  large: https://images.pokemontcg.io/swsh12pt5/87_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh12pt5-87
+  updatedAt: 2023/09/16
+  prices:
+    reverseHolofoil:
+      low: 0.1
+      mid: 0.23
+      high: 0.99
+      market: 0.21
+      directLow: 0.21
+    normal:
+      low: 0.01
+      mid: 0.06
+      high: 1.02
+      market: 0.04
+      directLow: 0.03
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh12pt5-87
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 0.03
+    lowPrice: 0.01
+    trendPrice: 0.03
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.15
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.11
+    lowPriceExPlus: 0.01
+    avg1: 0.03
+    avg7: 0.02
+    avg30: 0.03
+    reverseHoloAvg1: 0.35
+    reverseHoloAvg7: 0.15
+    reverseHoloAvg30: 0.16
